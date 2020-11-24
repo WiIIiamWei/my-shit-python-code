@@ -1,4 +1,4 @@
-a=[6,2,5,5,4,5,6,3,7,9]
+a=[6,2,5,5,4,5,6,3,7,6]
 num=int(input("Please input a number:"))
 num=list(str(num))
 total=0
