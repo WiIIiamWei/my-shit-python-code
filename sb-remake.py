@@ -1,6 +1,5 @@
 #sb.cpp remake (v.2 improved code)
 #Made by William Wei
-import os
 import time
 p=str(input("Please enter a name: "))
 if p=="YHN" or p=="YHNdnzj" or p=="Mike Yuan" or p=="yhn" or p=="yhndnzj" or p=="mike yuan":
